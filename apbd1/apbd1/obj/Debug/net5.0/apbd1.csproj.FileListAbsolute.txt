@@ -1,0 +1,16 @@
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\bin\Debug\net5.0\apbd1.exe
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\bin\Debug\net5.0\apbd1.deps.json
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\bin\Debug\net5.0\apbd1.runtimeconfig.json
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\bin\Debug\net5.0\apbd1.runtimeconfig.dev.json
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\bin\Debug\net5.0\apbd1.dll
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\bin\Debug\net5.0\ref\apbd1.dll
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\bin\Debug\net5.0\apbd1.pdb
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\apbd1.csproj.AssemblyReference.cache
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\apbd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\apbd1.AssemblyInfoInputs.cache
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\apbd1.AssemblyInfo.cs
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\apbd1.csproj.CoreCompileInputs.cache
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\apbd1.dll
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\ref\apbd1.dll
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\apbd1.pdb
+C:\Users\s21490\Desktop\apbd1\apbd1\apbd1\obj\Debug\net5.0\apbd1.genruntimeconfig.cache
