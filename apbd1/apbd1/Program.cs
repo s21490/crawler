@@ -21,7 +21,7 @@ namespace apbd1
             var content = await response.Content.ReadAsStringAsync();
             //Console.WriteLine(content);
 
-            var regex = new Regex(@" .*@pja.* ");
+            var regex = new Regex(@"[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+");
 
             var matchCollection = regex.Matches(content);
 
